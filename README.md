@@ -25,13 +25,13 @@ the slides.
 
 Getting ready should be a simple matter of running
 
-    python setup.py install
+    pip install odpdown
 
 from a terminal.
 
 On Windows, run it via the command prompt (Start ‣ Accessories):
 
-    setup.py install
+    pip install odpdown
 
 Alternatively, running `odpdown` directly from the git checkout is
 also possible, provided you've installed the prerequisites (most
